@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgroundupdb.a CMakeFiles/groundupdb.dir/src/database.cpp.o CMakeFiles/groundupdb.dir/src/filekeyvaluestore.cpp.o CMakeFiles/groundupdb.dir/src/groundupdb.cpp.o CMakeFiles/groundupdb.dir/src/hashes.cpp.o CMakeFiles/groundupdb.dir/src/highwayhash.cpp.o CMakeFiles/groundupdb.dir/src/memorykeyvaluestore.cpp.o CMakeFiles/groundupdb.dir/src/query.cpp.o CMakeFiles/groundupdb.dir/src/types.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgroundupdb.a
